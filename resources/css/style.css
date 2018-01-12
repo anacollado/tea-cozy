@@ -1,3 +1,43 @@
 body {
-	background: black;
+	background-color: black;
+	color: seashell;
+	font-family: Helvetica;
+	font-size: 22px;
+	opacity: 0.9;
+	text-align: center;
 }
+
+/* Header */
+
+header {
+	align-items: center;
+	background: black;
+	border-bottom: 1px solid seashell;
+	display: flex;
+	height: 69px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
+
+.logo {
+	display: flex;
+	padding-right: 60%;
+}
+
+
+.logo img {
+	height: 50px;
+	padding-left: 10px;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+}
+
+.buttons a {
+	color: seashell;
+}
+
