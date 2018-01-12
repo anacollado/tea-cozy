@@ -43,6 +43,8 @@ header {
 
 /* Main Container */
 
+/* Mission Section */
+
 .main-container {
 	padding-top: 35px;
 }
@@ -62,3 +64,30 @@ header {
 	width: 1200px;
 
 }
+
+/* Tea of the Month Section */
+
+.month-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: auto;
+	width: 1000px;
+}
+
+.pic {
+	padding: 5px;
+}
+
+.month-container span {
+	padding-top: 5px;
+	display: block;
+}
+
+.month-container img {
+	display: block;
+	height: 200px;
+	width: 300px;
+	margin: 10px;
+}
+
