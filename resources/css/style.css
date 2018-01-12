@@ -41,3 +41,24 @@ header {
 	color: seashell;
 }
 
+/* Main Container */
+
+.main-container {
+	padding-top: 35px;
+}
+
+.mission {
+	align-items: center;
+	background-image: url(file:../../resources/images/img-mission-background.jpg);
+	display: flex;
+	margin: auto;
+	height: 700px;
+	justify-content: center;
+	width: 1200px;
+}
+
+.mission-text {
+	background: black;
+	width: 1200px;
+
+}
