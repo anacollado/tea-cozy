@@ -120,3 +120,21 @@ header {
 	opacity: 1;
 	width: 300px;
 }
+
+/* Footer */
+
+.contact {
+	height: 200px;
+}
+
+.contact h2 {
+	padding-bottom: 20px;
+}
+
+.copyright {
+	padding-left: 20px;
+	text-align: left;
+}
+
+
+/**/
